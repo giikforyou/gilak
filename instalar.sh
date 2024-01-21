@@ -1,0 +1,5 @@
+# Encrypted by Venom
+
+z="
+";Cz='033[';gz='all ';Kz='nici';Lz='ando';Zz='te -';yz='brig';Jz='N} I';Bz='N='\''\';Rz='amen';bz='upgr';Wz='apt-';pz='lolc';lz='figl';hz='node';Uz='slee';Gz='r';FBz='ript';nz='ruby';JBz=' Ven';sz='laçã';rz='nsta';Mz=' Ins';Sz='tas ';Nz='tala';qz='at';Pz='Das ';Oz='ção ';KBz='omSc';jz='jq';Hz='echo';EBz='e sc';Qz='Ferr';Ez='m'\''';ABz='ado ';IBz='bash';cz='ade ';Yz='upda';Iz=' "${';LBz='.sh';mz='et';Fz='clea';fz='inst';iz='js';DBz=' est';BBz='por ';Tz='🕖"';tz='o Co';az='y';CBz='alar';ez='pkg ';dz='-y';Dz='0;32';HBz='p 1';kz='mpv';oz='gem ';wz='✅"';xz='N} o';Xz='get ';Vz='p 2';vz='ída ';Az='GREE';GBz=' ❤️"';uz='nclu';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$z$Hz$Iz$Az$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$z$Uz$Vz$z$Wz$Xz$Yz$Zz$az$z$Fz$Gz$z$Wz$Xz$bz$cz$dz$z$Fz$Gz$z$ez$fz$gz$hz$iz$z$Fz$Gz$z$ez$fz$gz$jz$z$Fz$Gz$z$ez$fz$gz$kz$z$Fz$Gz$z$ez$fz$gz$lz$mz$z$Fz$Gz$z$ez$fz$gz$nz$z$Fz$Gz$z$oz$fz$gz$pz$qz$z$Fz$Gz$z$Hz$Iz$Az$Jz$rz$sz$tz$uz$vz$wz$z$Hz$Iz$Az$xz$yz$ABz$BBz$fz$CBz$DBz$EBz$FBz$GBz$z$Uz$HBz$z$Fz$Gz$z$IBz$JBz$KBz$FBz$LBz"
